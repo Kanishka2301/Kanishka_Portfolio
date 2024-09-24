@@ -84,7 +84,7 @@ export const projects = [
     des: "Simplify your travel experience with Cab-Booking App that shows the pickup and destination using java",
     img: "/p2.png",
     iconLists: ["/java.png"],
-    link: "https://github.com/Kanishka2301/RecipeApp",
+    link: "https://github.com/Kanishka2301/Cab-Booking-App",
   },
   {
     id: 3,
