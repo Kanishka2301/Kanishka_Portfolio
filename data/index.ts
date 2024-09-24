@@ -109,12 +109,9 @@ export const socialMedia = [
     img: "/git.svg",
     link: "https://github.com/Kanishka2301",
   },
+
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
     link: "https://www.linkedin.com/in/kanishka-s-769a45299/",
   },
